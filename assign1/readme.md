@@ -6,7 +6,7 @@
 |k21-3114|Taha Rahat|
 |k20-1811|Sandeep kumar|
 ## Output Screenshots
-//-- Add output screenshots here. --//
+//-- --//
 ## Results and Analysis
 //-- Show graphs results and charts where necessary and discuss the results and what they signify. --// 
 ## Major Problems Encountered
