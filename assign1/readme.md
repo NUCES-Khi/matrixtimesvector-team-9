@@ -1,6 +1,9 @@
 # Assignment 1
 ## Team Members
-//-- place table as shown in main readme.md file --//
+|std_id|Name|
+|k21-4707|Aroon kumar|
+|k21-3114|Taha Rahat|
+|k20-1811|Sandeep kumar|
 ## Output Screenshots
 //-- Add output screenshots here. --//
 ## Results and Analysis
