@@ -1,6 +1,7 @@
 # Assignment 1
 ## Team Members
 |std_id|Name|
+|--------|-|
 |k21-4707|Aroon kumar|
 |k21-3114|Taha Rahat|
 |k20-1811|Sandeep kumar|
