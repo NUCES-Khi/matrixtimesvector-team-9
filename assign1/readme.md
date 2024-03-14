@@ -6,7 +6,8 @@
 |k21-3114|Taha Rahat|
 |k20-1811|Sandeep kumar|
 ## Output Screenshots
-//-- --//
+![WhatsApp Image 2024-03-13 at 22 45 08](https://github.com/NUCES-Khi/matrixtimesvector-team-9/assets/163070678/21d5623f-b308-43d0-9036-0cb8d1d66981)
+
 ## Results and Analysis
 //-- Show graphs results and charts where necessary and discuss the results and what they signify. --// 
 ## Major Problems Encountered
